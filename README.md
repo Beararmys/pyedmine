@@ -18,7 +18,7 @@ PyEdmine 是一个面向研究者的，易于开发与复现的**教育数据挖
 
 此外，我们设计了一个统一的实验设置，该设置下，知识追踪模型和认知诊断模型可以在习题推荐任务上进行评估
 
-1111
+
 <p align="center">
   <img src="asset/img/ExperimentalFlowChart.jpg" alt="PeEdmine 实验流程图" width="600">
   <br>
